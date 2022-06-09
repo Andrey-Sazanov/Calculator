@@ -7,8 +7,11 @@
     --ff-main:'Roboto', sans-serif;
     --fw-900:900;
 }
+body{
+    background: linear-gradient(to right, navy, red);
+}
 .calc{
-    margin: 50px auto;
+    margin: 150px auto;
     width: 300px;
     height: 500px;
     border-radius: 15px;
